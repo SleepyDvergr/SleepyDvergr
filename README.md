@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SleepyDvergr
 - 👀 I’m interested in coding, archaeology, dungeon synth and gaming
-- 🌱 I’m currently learning JavaScript, React, MongoDB, SQL, and others, as I've started a programming bootcamp :)
-- 💞️ I’m looking to collaborate on works in the future
+- 🌱 I recently graduated from a FullStack coding bootcamp, where I learned JavaScript, React, MongoDB, SQL, and others.
+- 💞️ I’m looking to collaborate on works in the future and to develop my skills
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I studied Neandertals before I started getting interested in software development :D
